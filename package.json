@@ -9,6 +9,10 @@
   "author": "Martin Bornman",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^2.2.5"
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "install": "^0.9.6",
+    "mongodb": "^2.2.5",
+    "mongoose": "^4.9.7"
   }
 }
