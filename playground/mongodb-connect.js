@@ -42,4 +42,4 @@ MongoClient.connect('mongodb://localhost:27017/TodoApp', (err, db) => {
     db.close();
 });
 
-// ./mongod --dbpath ~/mongo-data (Path to connect to database)
+// must be in the mongo db in the bin directory (Path to connect to database)
